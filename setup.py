@@ -7,18 +7,18 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="dml-py",
+    name="pytorch-dml",
     version="1.0.0",
-    author="DML-PY Contributors",
-    author_email="dml-py@example.com",
+    author="Varun Rao",
+    author_email="varunrao.gd@gmail.com",
     description="A production-ready library for Deep Mutual Learning and collaborative neural network training",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/DML-PY",
+    url="https://github.com/VARUN3WARE/dml-py",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/DML-PY/issues",
-        "Documentation": "https://github.com/yourusername/DML-PY/blob/main/README.md",
-        "Source Code": "https://github.com/yourusername/DML-PY",
+        "Bug Tracker": "https://github.com/VARUN3WARE/dml-py/issues",
+        "Documentation": "https://github.com/VARUN3WARE/dml-py/blob/main/README.md",
+        "Source Code": "https://github.com/VARUN3WARE/dml-py",
     },
     packages=find_packages(exclude=["tests", "tests.*", "examples", "validation_tests"]),
     classifiers=[

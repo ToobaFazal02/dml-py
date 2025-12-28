@@ -78,10 +78,6 @@ print(f"Test Accuracy: {test_metrics['val_acc']:.2f}%")
 
 ## 📦 Installation
 
-### From Source (Recommended)
-
-````bash
-git clone https://github.com/yourusername/dml-py
 ### From Source
 
 ```bash
@@ -95,7 +91,7 @@ uv pip install -e .
 
 # Or using pip
 pip install -e .
-````
+```
 
 ### From PyPI
 
@@ -224,9 +220,6 @@ Expected results (200 epochs):
 ## 📚 Documentation
 
 - [GETTING_STARTED.md](GETTING_STARTED.md) - Quick installation and first steps
-- [PLAN.md](PLAN.md) - Complete project vision and roadmap
-- [FINAL_SUMMARY.md](FINAL_SUMMARY.md) - Complete implementation details
-- [validation_tests/VALIDATION_REPORT.md](validation_tests/VALIDATION_REPORT.md) - Test results
 - [examples/](examples/) - 16 working examples
 
 ## ✅ Project Status
@@ -306,4 +299,4 @@ https://arxiv.org/abs/1706.00384
 
 **Status:** ✅ Production Ready | Validated: +18% Performance Boost
 
-_Last Updated: December 23, 2025_
+_Last Updated: December 28, 2025_
