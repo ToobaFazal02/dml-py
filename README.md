@@ -1,5 +1,7 @@
 # pytorch-dml - A Collaborative Deep Learning Library
 
+![pytorch-dml Banner](banner.png)
+
 [![PyPI version](https://badge.fury.io/py/pytorch-dml.svg)](https://badge.fury.io/py/pytorch-dml)
 [![PyPI](https://img.shields.io/pypi/v/pytorch-dml)](https://pypi.org/project/pytorch-dml/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
