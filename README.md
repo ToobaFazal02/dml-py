@@ -245,6 +245,8 @@ Expected results (200 epochs):
 
 Contributions are welcome! This project is actively maintained.
 
+`Note: The project is still in early period and I am still learning and exploring.`
+
 ### Future Enhancements
 
 - [ ] Multi-GPU distributed training (DDP)
