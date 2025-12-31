@@ -259,7 +259,7 @@ Contributions are welcome! This project is actively maintained.
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-## 📚 Citation
+<!-- ## 📚 Citation
 
 If you use DML-PY in your research, please cite:
 
@@ -276,9 +276,9 @@ If you use DML-PY in your research, please cite:
   title={DML-PY: A Collaborative Deep Learning Library},
   author={DML-PY Contributors},
   year={2025},
-  url={https://github.com/yourusername/dml-py}
+  url={https://github.com/VARUN3WARE/dml-py}
 }
-```
+``` -->
 
 ## 🙏 Acknowledgments
 
